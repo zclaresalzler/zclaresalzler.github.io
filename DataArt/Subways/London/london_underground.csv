@@ -1,0 +1,12 @@
+,Bakerloo,Central,Circle,District,Hammersmith & City,Jubilee,Metropolitan,Northern,Piccadilly,Victoria,Waterloo & City
+Bakerloo,0,1,3,2,2,2,1,4,1,1,1
+Central,1,0,3,4,2,2,1,2,1,1,1
+Circle,3,3,0,18,18,2,9,4,3,2,1
+District,2,4,18,0,13,2,0,2,8,1,1
+Hammersmith & City,2,2,18,13,0,2,8,2,1,1,0
+Jubilee,2,2,2,2,2,0,3,2,1,1,1
+Metropolitan,1,1,9,0,8,3,0,2,8,1,0
+Northern,4,2,4,2,2,2,2,0,2,4,2
+Piccadilly,1,1,3,8,1,1,8,2,0,3,0
+Victoria,1,1,2,1,1,1,1,4,3,0,0
+Waterloo & City,1,1,1,1,0,1,0,2,0,0,0
